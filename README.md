@@ -1,10 +1,15 @@
 First, you need a WebDriver for your browser of choice:
 
 Chrome: https://chromedriver.chromium.org/
+
 Firefox: https://github.com/mozilla/geckodriver
+
 Edge: https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+
 Opera: https://github.com/operasoftware/operachromiumdriver
+
 Safari: https://developer.apple.com/documentation/webkit/testing_with_webdriver_in_safari
+
 (Make sure that the selected WebDriver version matches your current browser version)
 
 The path to the webdriver must be in your PATH.
